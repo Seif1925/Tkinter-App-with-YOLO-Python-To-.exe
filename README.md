@@ -2,6 +2,7 @@
 
 This is a **desktop computer vision application** built using **Python**, **YOLOv8**, and **Tkinter**, converted into a standalone executable (`.exe`).  
 It allows **real-time object detection** using your webcam, as well as the ability to upload and analyze **images** and **videos** — **no coding knowledge required**.
+![Cap](https://github.com/user-attachments/assets/a86e6303-f962-4b06-9372-10806dc77afb)
 
 ---
 
